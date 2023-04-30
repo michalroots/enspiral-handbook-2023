@@ -20,8 +20,6 @@ You can see the current members of Enspiral Europe Node on our [Open Collective 
 
 ## Documentation
 
-- [ ] change link to the documentation article when posted on relevant platform after consulting with Rich and Malcolm.
-
 **[This article](https://docs.google.com/document/d/1LTT3ea844rOrXxZ8x9LOx9a0fVrQ2cu0WOszO-OhSZQ/edit#) documents the origin story of the Enspiral Europe Node** (from January 2020 to February 2022), with the intention to clarify the node formation process and serve as a roadmap guiding new nodes to emerge. The project was funded through the [Fall 2022 Enspiral Cobudget Round](https://cobudget.com/enspiral/funding-round-2022/cl836r2ua004109mhgyuw8z59). Thank you for making this possible 💚
 
 ### Podcast Series: Emergence of Enspiral Europe Node
